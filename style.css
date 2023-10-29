@@ -6,7 +6,7 @@
 
 }
 body{
-    background: #5372F0;
+    background: #2deae1;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -88,9 +88,10 @@ body{
     margin-top: 20px;
     border: none;
     cursor: pointer;
-    color: #fff;
+    color: #090909;
     font-size: 17px;
     border-radius: 5px;
-    background: #5372F0;
+    background: #19e7c1;
 
 }
+/* 5372F0 */
